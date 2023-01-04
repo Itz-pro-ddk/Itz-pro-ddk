@@ -39,3 +39,4 @@ I am Currently Learning - C++
 <a href="https://t.me/ddk_sempai40"><img src="https://img.shields.io/badge/Telegram%20DdkSempai-blue.svg?style=for-the-badge&logo=Telegram"></a> 
 <a href="https://youtube.com/@ddksempai40"><img src="https://img.shields.io/badge/Subscribe%20Channel-red.svg?style=for-the-badge&logo=Youtube"></a>
   
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif
