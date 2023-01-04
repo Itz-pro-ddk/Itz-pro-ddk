@@ -2,10 +2,10 @@
 
 ## ᴅᴅᴋ 財産
 
-```console
-Name - Ddk Sempai (anay) 
+```
+Name - Ddk Sempai 
 I am Currently Working On - Telegram Bots 
-I know - Python and Node.js 
+I know - Python , Node.js and TypeScript 
 I am Currently Learning - C++ 
 ```
 ## My Projects 
