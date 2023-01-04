@@ -34,3 +34,8 @@ I am Currently Learning - C++
 # <p align="center"><a href="https://github.com/Itz-pro-ddk/Broadcast-Bot"><img src="https://github-readme-stats.vercel.app/api/pin?username=Itz-pro-ddk&show_icons=true&theme=dracula&hide_border=true&repo=Broadcast-Bot"></a></p>
 <p align="center">
     
+## Informations 
+
+<a href="https://t.me/ddk_sempai40"><img src="https://img.shields.io/badge/Telegram%20DdkSempai-blue.svg?style=for-the-badge&logo=Telegram"></a> 
+<a href="https://youtube.com/@ddksempai40"><img src="https://img.shields.io/badge/Subscribe%20Channel-red.svg?style=for-the-badge&logo=Youtube"></a>
+  
