@@ -39,4 +39,10 @@ I am Currently Learning - C++
 <a href="https://t.me/ddk_sempai40"><img src="https://img.shields.io/badge/Telegram%20DdkSempai-blue.svg?style=for-the-badge&logo=Telegram"></a> 
 <a href="https://youtube.com/@ddksempai40"><img src="https://img.shields.io/badge/Subscribe%20Channel-red.svg?style=for-the-badge&logo=Youtube"></a>
   
+## MY STATS 
+![ GitHub stats](https://github-readme-stats.vercel.app/api?username=Itz-pro-ddk&show_icons=true&theme=radical)
+
+[![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=itz-pro-ddk&layout=compact&theme=midnight-purple&hide=Css)](https://github.com/Itz-pro-ddk)
+
+![](https://visitor-badge.laobi.icu/badge?page_id=Itz-pro-ddk)
 
